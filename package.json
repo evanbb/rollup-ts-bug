@@ -1,0 +1,17 @@
+{
+  "name": "rollup-ts-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node scripts/build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wessberg/rollup-plugin-ts": "^1.3.14",
+    "rollup": "^2.47.0",
+    "typescript": "^4.2.4"
+  }
+}
